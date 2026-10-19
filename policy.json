@@ -1,0 +1,9 @@
+{
+  "rules": [
+    {"role": "intern",  "apps": ["hr"],
+     "posture": {"os_patched": true, "disk_encrypted": true, "firewall": true}},
+    {"role": "finance", "apps": ["hr", "finance"],
+     "posture": {"os_patched": true, "disk_encrypted": true, "firewall": true}}
+  ],
+  "connectors": {"connector-1": ["hr", "finance"], "connector-2": []}
+}

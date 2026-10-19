@@ -1,0 +1,3 @@
+certs/
+audit.log
+__pycache__/
