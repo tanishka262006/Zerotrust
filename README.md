@@ -1,4 +1,4 @@
-# Mini ZTNA: a small Zero Trust Network Access prototype
+# Mini ZTNA: Zero Trust Network Access prototype
 
 A learning prototype of the architecture behind products like Zscaler Private Access (ZPA).
 Private apps have **no inbound exposure**; every request is verified on device certificate,
